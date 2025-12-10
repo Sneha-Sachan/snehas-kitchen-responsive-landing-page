@@ -15,16 +15,12 @@ Built using **HTML, CSS, and JavaScript**, this website showcases a clean UI, at
 - CSS  
 - JavaScript  
 
-## 📸 Screenshot
-_Add your image here like:_  
-`![Sneha’s Kitchen Screenshot](snehas-kitchen-responsive-landing-page/Restraunt_Preview.png)`
-
 ## 🚀 How to Run
 1. Clone the repo  
    ```bash
    git clone https://github.com/Sneha-Sachan/snehas-kitchen-responsive-landing-page.git
 Open index.html in your browser.
 
-👩‍💻 Author
-Sneha Sachan
+## 👩‍💻 Author
+# Sneha Sachan
 Front-End Developer | Web Developer
