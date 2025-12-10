@@ -17,7 +17,7 @@ Built using **HTML, CSS, and JavaScript**, this website showcases a clean UI, at
 
 ## 📸 Screenshot
 _Add your image here like:_  
-`![Sneha’s Kitchen Screenshot](Restraunt_Preview.png)`
+`![Sneha’s Kitchen Screenshot](snehas-kitchen-responsive-landing-page/Restraunt_Preview.png)`
 
 ## 🚀 How to Run
 1. Clone the repo  
